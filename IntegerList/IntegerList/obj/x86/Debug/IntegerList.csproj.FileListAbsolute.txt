@@ -4,3 +4,5 @@ C:\Users\eahscs\AppData\Local\Temporary Projects\IntegerList\obj\x86\Debug\Integ
 C:\Users\eahscs\AppData\Local\Temporary Projects\IntegerList\obj\x86\Debug\IntegerList.pdb
 C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\IntegerList\obj\x86\Debug\IntegerList.exe
 C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\IntegerList\obj\x86\Debug\IntegerList.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\IntegerList\bin\Debug\IntegerList.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\IntegerList\bin\Debug\IntegerList.pdb

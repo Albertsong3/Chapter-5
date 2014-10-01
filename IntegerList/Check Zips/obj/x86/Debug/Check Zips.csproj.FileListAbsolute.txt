@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Check Zips\bin\Debug\Check Zips.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Check Zips\bin\Debug\Check Zips.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Check Zips\obj\x86\Debug\Check Zips.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Check Zips\obj\x86\Debug\Check Zips.pdb

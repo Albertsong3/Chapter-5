@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual C# Express 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerList", "IntegerList\IntegerList.csproj", "{DC0B1C3B-B134-4FF2-AA2A-7A0655A64E3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check Zips", "Check Zips\Check Zips.csproj", "{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +15,10 @@ Global
 		{DC0B1C3B-B134-4FF2-AA2A-7A0655A64E3F}.Debug|x86.Build.0 = Debug|x86
 		{DC0B1C3B-B134-4FF2-AA2A-7A0655A64E3F}.Release|x86.ActiveCfg = Release|x86
 		{DC0B1C3B-B134-4FF2-AA2A-7A0655A64E3F}.Release|x86.Build.0 = Release|x86
+		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Debug|x86.ActiveCfg = Debug|x86
+		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Debug|x86.Build.0 = Debug|x86
+		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Release|x86.ActiveCfg = Release|x86
+		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
