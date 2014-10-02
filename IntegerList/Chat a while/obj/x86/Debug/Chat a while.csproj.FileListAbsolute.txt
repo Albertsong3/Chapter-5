@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Chat a while\bin\Debug\Chat a while.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Chat a while\bin\Debug\Chat a while.pdb
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Chat a while\obj\x86\Debug\Chat a while.exe
+C:\Users\eahscs\Documents\GitHub\Chapter-5\IntegerList\Chat a while\obj\x86\Debug\Chat a while.pdb

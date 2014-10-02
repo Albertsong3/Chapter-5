@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerList", "IntegerList\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check Zips", "Check Zips\Check Zips.csproj", "{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat a while", "Chat a while\Chat a while.csproj", "{4893BA13-3D12-41B1-9C87-53A318EE2703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Debug|x86.Build.0 = Debug|x86
 		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Release|x86.ActiveCfg = Release|x86
 		{43CD48CC-0A40-4F28-A43D-BDC6CA8C0012}.Release|x86.Build.0 = Release|x86
+		{4893BA13-3D12-41B1-9C87-53A318EE2703}.Debug|x86.ActiveCfg = Debug|x86
+		{4893BA13-3D12-41B1-9C87-53A318EE2703}.Debug|x86.Build.0 = Debug|x86
+		{4893BA13-3D12-41B1-9C87-53A318EE2703}.Release|x86.ActiveCfg = Release|x86
+		{4893BA13-3D12-41B1-9C87-53A318EE2703}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
